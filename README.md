@@ -1,5 +1,7 @@
-# Bank-Data-Analytics
-#-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                        # Bank-Data-Analytics
+
+------------------------------------------------------------------------------------------------------------------------
+
 This project aims to analyze and visualize banking data to uncover key insights and trends that can support decision-making in the banking industry. By leveraging the powerful features of **Tableau** and **Excel**, this project provides a comprehensive approach to data analysis and reporting.
 
 ## Project Overview
